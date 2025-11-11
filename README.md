@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/hritika20002/hritika20002/main/hrihri.jpeg" alt="Hritika Sharma" width="200" style="border-radius: 50%;">
 </p>
 
-
 <p align="center">
 🎓 <b>BSc (Hons) Computer Science</b> Student at <b>Algoma University</b><br>
 💻 Passionate about <b>Artificial Intelligence, Machine Learning, and Data Science</b><br>
@@ -15,6 +14,7 @@
 <a href="mailto:sharmahritika2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hritikasharma2002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/hritika20002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/hritika20002/hritika20002/blob/main/CV.docx"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
 
 ---
@@ -29,8 +29,8 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 ### 🧰 Skills & Technologies
 
 **💬 Languages:** Python · Java · JavaScript · SQL  
-**🧩 Tools:** Git · GitHub · CloudSim · Anaconda · VS Code · FFmpeg  
-**🤖 Technologies:** Artificial Intelligence · Machine Learning · Data Science · Cloud Simulation · ASR (Automatic Speech Recognition) · JSON · Databases  
+**🧩 Tools:** Git · GitHub · Anaconda · VS Code · FFmpeg  
+**🤖 Technologies:** Artificial Intelligence · Machine Learning · Data Science · React · ASR (Automatic Speech Recognition) · JSON · Databases  
 **🧠 Soft Skills:** Teamwork · Documentation · Debugging · Teaching · Microsoft Office  
 
 ---
@@ -82,7 +82,9 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-2C2C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudSim-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
