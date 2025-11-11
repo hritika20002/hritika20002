@@ -38,8 +38,8 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 - Developed models mimicking **public and private cloud systems** using **CloudSim**.  
 - Delivered a detailed analysis with visual performance metrics and optimization suggestions.  
 
-#### 🧠 HATS (Human Annotated Transcripts for Speech) Evaluation Project  
-🎙️ *Collaborative Research – Python, Git, FFmpeg, JSON*  
+#### 🧠 HATS (“Human Assessed Transcription Side-by-Side) Evaluation Project  
+🎙️ *Collaborative Research – Python, Git, FFmpeg, React, JSON*  
 - Working with **Dr. Somang Nam (Algoma University)** and **Dr. Roux (UCLouvain)**.  
 - Evaluating **AI-based speech recognition systems** like Whisper, HuBERT, and Wav2Vec2.  
 - Built a **data annotation and evaluation platform** to compare model outputs with human feedback.  
