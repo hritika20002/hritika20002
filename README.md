@@ -1,7 +1,9 @@
 <h1 align="center">Hi there, I'm Hritika Sharma 👋</h1>
+
 <p align="center">
-  <img src="https://github.com/hritika20002/hritika20002/blob/main/banner.png" alt="Hritika Sharma Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/hritika20002/hritika20002/main/hrihri.jpeg" alt="Hritika Sharma" width="200" style="border-radius: 50%;">
 </p>
+
 
 <p align="center">
 🎓 <b>BSc (Hons) Computer Science</b> Student at <b>Algoma University</b><br>
