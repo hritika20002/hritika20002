@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Hritika Sharma 👋</h1>
+<p align="center">
+  <img src="https://github.com/hritika20002/hritika20002/blob/main/banner.png" alt="Hritika Sharma Banner" width="100%">
+</p>
 
 <p align="center">
 🎓 <b>BSc (Hons) Computer Science</b> Student at <b>Algoma University</b><br>
@@ -97,7 +100,7 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 
 ### ⚡ Recent GitHub Activity  
 <!--START_SECTION:activity-->
-1. 💡 Working on AI & ML projects focused on speech evaluation and hybrid cloud simulation.
+1. 💡 Working on AI & ML projects focused on speech evaluation.
 2. 🚀 Updated multiple repositories with new commits and documentation.
 3. 🧠 Exploring datasets for data-driven analysis and visualization.
 4. 🧩 Collaborating on research related to ASR (Automatic Speech Recognition) evaluation.
