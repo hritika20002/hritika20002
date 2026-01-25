@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-🎓 <b>BSc (Hons) Computer Science</b> Student at <b>Algoma University</b><br>
-💻 Passionate about <b>Artificial Intelligence, Machine Learning, and Data Science</b><br>
+🎓 <b>BSc (Hons) Computer Science – Graduate</b>, <b>Algoma University</b><br>
+💻 💻 Focused on Artificial Intelligence, Machine Learning, and Data Science</b><br>
 📍 Based in <b>Mississauga, Ontario</b><br>
 </p>
 
@@ -17,12 +17,10 @@
 <a href="https://github.com/hritika20002/hritika20002/blob/main/CV.docx"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
 
----
-
 ### 🧠 About Me
-I’m a Computer Science student deeply passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science**.  
-I love building and experimenting with systems that learn from data, make predictions, and help solve real-world problems.  
-Currently, I’m working on projects in **AI model evaluation**, **data-driven analysis**, and **cloud-based simulations**.  
+I’m a Computer Science graduate deeply passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science**.  
+I enjoy building systems that learn from data, make predictions, and solve real-world problems, with current work focused on AI model evaluation, data-driven analysis, and applied machine learning research. 
+Currently, I’m working on projects in **AI model evaluation**, **data-driven analysis**, and **applied machine learning research**.  
 
 ---
 
@@ -37,24 +35,35 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 
 ### 🚀 Featured Projects
 
-#### ☁️ Simulating Hybrid Cloud Infrastructure using CloudSim  
-🧩 *Individual Project – Java + Eclipse*  
-- Designed and simulated **hybrid cloud environments** to measure performance and resource efficiency.  
-- Developed models mimicking **public and private cloud systems** using **CloudSim**.  
-- Delivered a detailed analysis with visual performance metrics and optimization suggestions.  
+#### 🧪 ML Experiment Tracker  
+🔍 *Applied Machine Learning – Imbalanced Classification*  
+- Developed an end-to-end fraud detection pipeline using real-world transactional data.  
+- Addressed severe class imbalance using **class weighting and stratified sampling**. 
+- Compared models using **recall-focused evaluation metrics** rather than accuracy.
+- Implemented reproducible experiment tracking and comparative model analysis. 
 
-#### 🧠 HATS (“Human Assessed Transcription Side-by-Side) Evaluation Project  
+#### 🧠 HATS (“Human Assessed Transcription Side-by-Side”) Evaluation Project  
 🎙️ *Collaborative Research – Python, Git, FFmpeg, React, JSON*  
 - Working with **Dr. Somang Nam (Algoma University)** and **Dr. Roux (UCLouvain)**.  
 - Evaluating **AI-based speech recognition systems** like Whisper, HuBERT, and Wav2Vec2.  
-- Built a **data annotation and evaluation platform** to compare model outputs with human feedback.  
+- Built a **data annotation and evaluation platform** to compare model outputs with human feedback.
+
+#### 🐞 Bug Tracker System  
+🧩 *Backend System – Python, Flask*  
+- Developed a bug tracking system focused on structured issue management and backend logic.  
+- Demonstrates understanding of **concurrency, coordination, and system design principles**.
+
+#### 💬 Chatty-Chat (Client–Server Chat Application)  
+🌐 *Networking – Python, Sockets, Multithreading*  
+- Built a real-time chat application supporting multiple concurrent users.  
+- Implemented socket-based communication and multithreading for message handling.
 
 ---
 
 ### 🎓 Education
 
 **Algoma University, Brampton, ON**  
-*BSc (Hons) Computer Science* — *Expected Graduation: 2026*  
+<b>BSc (Hons) Computer Science</b> — <b>Graduated</b>
 
 ---
 
@@ -63,14 +72,14 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 **Innovation Ghar Nepal – IT Intern** *(Jun 2021 – Feb 2022)*  
 - Developed and taught robotics and coding workshops for children.  
 - Set up and maintained computer systems and robotic kits.  
-- Created educational materials and assisted with live technical troubleshooting.  
+- Created educational materials and assisted with live technical troubleshooting.
 
 ---
 
 ### 🏆 Achievements
-- Contributor to **international AI and NLP research**.  
+- Contributor to **international AI and NLP research collaborations**.  
 - Academic excellence in **Artificial Intelligence and Cloud Computing coursework**.  
-- Actively building a **portfolio in Data Science and ML applications**.  
+- Actively building a **portfolio in Data Science and ML applications**.
 
 ---
 
@@ -103,15 +112,11 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 ---
 
 ### ⚡ Recent GitHub Activity  
-<!--START_SECTION:activity-->
 1. 💡 Working on AI & ML projects focused on speech evaluation.
 2. 🚀 Updated multiple repositories with new commits and documentation.
 3. 🧠 Exploring datasets for data-driven analysis and visualization.
 4. 🧩 Collaborating on research related to ASR (Automatic Speech Recognition) evaluation.
 5. ✨ Pushing new commits on GitHub — stay tuned for upcoming releases!
-<!--END_SECTION:activity-->
-
-*(This section updates automatically with your latest GitHub activity!)*  
 
 ---
 
@@ -121,4 +126,7 @@ When I’m not coding, I’m usually writing stories, diving into literature, or
 ---
 
 ⭐ *If you like my work, please consider starring my repositories!*  
-Thanks for visiting my profile 🙌
+Thanks for visiting my profile 🙌  
+📬 Feel free to reach out for collaboration, research opportunities, or ML-focused roles.
+
+If you want next, we can:
