@@ -119,7 +119,16 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 5. ✨ Pushing new commits on GitHub — stay tuned for upcoming releases!
 
 ---
-
+🚀 Fashion Intelligence Engine (WIP)
+- Comprehensive AI-powered platform combining:
+  - Trend Intelligence Engine
+  - AI Stylist Module
+  - Voice Recognition Layer
+  - Trend Database
+  - Interactive UI Platform
+- Status: Prototype expected by **end of April 2026**
+- Skills: Full-stack AI development, ML, NLP, UX/UI, database integration
+  
 ### 🌟 Fun Fact  
 When I’m not coding, I’m usually writing stories, diving into literature, or experimenting with makeup 💄📖 — a little creativity to balance the logic! ✨  
 
