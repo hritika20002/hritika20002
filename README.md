@@ -4,10 +4,14 @@
   <img src="https://raw.githubusercontent.com/hritika20002/hritika20002/main/hrihri.jpeg" alt="Hritika Sharma" width="200" style="border-radius: 50%;">
 </p>
 
+<h3 align="center">
+💄 Fashion Intelligence Engineer | AI Stylist Systems | Speech Recognition | Machine Learning
+</h3>
+
 <p align="center">
-🎓 <b>BSc (Hons) Computer Science – Graduate</b>, <b>Algoma University</b><br>
-💻 💻 Focused on Artificial Intelligence, Machine Learning, and Data Science</b><br>
-📍 Based in <b>Mississauga, Ontario</b><br>
+🎓 <b>BSc (Hons) Computer Science Graduate</b> — Algoma University <br>
+📍 Mississauga, Ontario, Canada <br>
+🧠 Building AI systems that combine <b>fashion intelligence, machine learning, and speech technologies</b>
 </p>
 
 <p align="center">
@@ -17,88 +21,137 @@
 <a href="https://github.com/hritika20002/hritika20002/blob/main/CV.docx"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobe&logoColor=white"/></a>
 </p>
 
-### 🧠 About Me
-I’m a Computer Science graduate deeply passionate about **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Data Science**.  
-I enjoy building systems that learn from data, make predictions, and solve real-world problems, with current work focused on AI model evaluation, data-driven analysis, and applied machine learning research. 
-Currently, I’m working on projects in **AI model evaluation**, **data-driven analysis**, and **applied machine learning research**.  
+---
+
+# 🧠 About Me
+
+I’m a Computer Science graduate focused on building intelligent systems at the intersection of **Artificial Intelligence, Fashion Technology, and Speech Recognition**.
+
+My work explores how machine learning can power:
+
+• **Fashion trend intelligence systems**  
+• **AI stylist recommendation engines**  
+• **Voice-powered fashion assistants**  
+• **Human-centered evaluation of speech recognition models**
+
+I enjoy building data-driven systems that transform complex datasets into tools that help people **understand trends, make decisions, and interact naturally with AI**.
+
+Currently developing **BratzMuse AI**, a fashion intelligence platform combining machine learning, trend databases, and voice interfaces.
 
 ---
 
-### 🧰 Skills & Technologies
+# 🚀 Featured Projects
 
-**💬 Languages:** Python · Java · JavaScript · SQL  
-**🧩 Tools:** Git · GitHub · Anaconda · VS Code · FFmpeg  
-**🤖 Technologies:** Artificial Intelligence · Machine Learning · Data Science · React · ASR (Automatic Speech Recognition) · JSON · Databases  
-**🧠 Soft Skills:** Teamwork · Documentation · Debugging · Teaching · Microsoft Office  
+## 🎙 HATS – Human Assessed Transcription Side-by-Side
 
----
+**Speech Evaluation & Data Processing Platform**  
+*Collaborative Research Project — Python · Git · FFmpeg · JSON · React*
 
-### 🚀 Featured Projects
+HATS is a research platform designed to evaluate **Automatic Speech Recognition (ASR)** systems through structured human comparison of transcription outputs.
 
-#### 🧪 ML Experiment Tracker  
-🔍 *Applied Machine Learning – Imbalanced Classification*  
-- Developed an end-to-end fraud detection pipeline using real-world transactional data.  
-- Addressed severe class imbalance using **class weighting and stratified sampling**. 
-- Compared models using **recall-focused evaluation metrics** rather than accuracy.
-- Implemented reproducible experiment tracking and comparative model analysis. 
+The project supports research investigating the limitations of traditional metrics like **Word Error Rate (WER)** and explores more **human-centered approaches to evaluating speech systems**.
 
-#### 🧠 HATS (“Human Assessed Transcription Side-by-Side”) Evaluation Project  
-🎙️ *Collaborative Research – Python, Git, FFmpeg, React, JSON*  
-- Working with **Dr. Somang Nam (Algoma University)** and **Dr. Roux (UCLouvain)**.  
-- Evaluating **AI-based speech recognition systems** like Whisper, HuBERT, and Wav2Vec2.  
-- Built a **data annotation and evaluation platform** to compare model outputs with human feedback.
+Developed in collaboration with researchers from **Algoma University** and **UCLouvain**, the platform enables side-by-side comparison of transcripts produced by models such as:
 
-#### 🐞 Bug Tracker System  
-🧩 *Backend System – Python, Flask*  
-- Developed a bug tracking system focused on structured issue management and backend logic.  
-- Demonstrates understanding of **concurrency, coordination, and system design principles**.
+• Whisper  
+• HuBERT  
+• Wav2Vec2  
 
-#### 💬 Chatty-Chat (Client–Server Chat Application)  
-🌐 *Networking – Python, Sockets, Multithreading*  
-- Built a real-time chat application supporting multiple concurrent users.  
-- Implemented socket-based communication and multithreading for message handling.
+**Key Contributions**
+
+• Supported development and maintenance of **data-processing pipelines for audio and transcript evaluation**  
+• Debugged pipeline failures using **structured logs, JSON outputs, and validation checks**  
+• Assisted with **data preparation and transformation scripts** for reproducible workflows  
+• Contributed to a **human annotation interface** used to compare ASR model outputs  
+• Collaborated in a **multi-developer research environment using Git**, documenting pipeline structures and data flows
+
+Focus areas: **Speech Recognition · Model Evaluation · Data Pipelines · Human-in-the-loop AI**
 
 ---
 
-### 🎓 Education
+## 💄 BratzMuse AI — Fashion Intelligence Engine *(In Development)*
 
-**Algoma University, Brampton, ON**  
-<b>BSc (Hons) Computer Science</b> — <b>Graduated</b>
+BratzMuse AI is a **multi-layer AI platform** designed to analyze fashion data and power intelligent styling systems.
 
----
+The project explores how machine learning can transform fashion datasets into **actionable insights and interactive styling tools**.
 
-### 💼 Work Experience
+**Core Modules**
 
-**Innovation Ghar Nepal – IT Intern** *(Jun 2021 – Feb 2022)*  
-- Developed and taught robotics and coding workshops for children.  
-- Set up and maintained computer systems and robotic kits.  
-- Created educational materials and assisted with live technical troubleshooting.
+• **Trend Intelligence Engine** — detect patterns and emerging fashion trends from datasets  
+• **AI Stylist System** — recommend outfits based on preferences and trend data  
+• **Voice Assistant Layer** — enable voice-powered fashion interaction  
+• **Fashion Trend Database** — structured storage and retrieval of fashion data  
+• **Interactive Web Platform** — user interface for exploring trends and styling suggestions
 
----
-
-### 🏆 Achievements
-- Contributor to **international AI and NLP research collaborations**.  
-- Academic excellence in **Artificial Intelligence and Cloud Computing coursework**.  
-- Actively building a **portfolio in Data Science and ML applications**.
+Technologies:  
+Python · Machine Learning · NLP · React · Databases · Speech APIs
 
 ---
 
-### 🧮 Tech Stack Badges
+## 👗 Trend Visualizer — AI-Powered Fashion Trend Analysis
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-2C2C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+**Data Science Project — Python · Pandas · Matplotlib**
+
+A machine learning and visualization project that explores patterns within the **Fashion-MNIST dataset** to understand clothing categories and visual trends.
+
+**Highlights**
+
+• Processed and analyzed image datasets to extract category-level patterns  
+• Generated visual insights through **pixel intensity analysis and category comparison**  
+• Demonstrated how machine learning techniques can support **fashion trend exploration**
+
+Focus: **Fashion Data Science · Visual Analytics**
 
 ---
 
-### 📊 GitHub Stats
+## 🧪 ML Experiment Tracker
+
+**Machine Learning Pipeline — Python · Scikit-Learn**
+
+A structured machine learning workflow designed to experiment with **imbalanced classification problems**.
+
+**Key Work**
+
+• Developed an end-to-end **fraud detection machine learning pipeline**  
+• Addressed severe class imbalance using **class weighting and stratified sampling**  
+• Evaluated models using **recall-focused metrics** rather than accuracy  
+• Implemented reproducible **experiment tracking and comparative model evaluation**
+
+Focus: **Applied Machine Learning · Model Evaluation**
+
+---
+
+# 🧰 Technical Skills
+
+**Languages**  
+Python · Java · JavaScript · SQL
+
+**AI / Data**  
+Machine Learning · Data Analysis · NLP · Automatic Speech Recognition (ASR)
+
+**Tools**  
+Git · GitHub · Anaconda · VS Code · FFmpeg
+
+**Technologies**  
+React · JSON · Databases · APIs · Data Processing
+
+---
+
+# 🎓 Education
+
+**Algoma University — Brampton, Ontario**  
+BSc (Hons) Computer Science
+
+Focus areas:
+
+• Artificial Intelligence  
+• Data Science  
+• Cloud Computing  
+• Software Systems
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hritika20002&show_icons=true&theme=radical" height="160px"/>
@@ -111,31 +164,24 @@ Currently, I’m working on projects in **AI model evaluation**, **data-driven a
 
 ---
 
-### ⚡ Recent GitHub Activity  
-1. 💡 Working on AI & ML projects focused on speech evaluation.
-2. 🚀 Updated multiple repositories with new commits and documentation.
-3. 🧠 Exploring datasets for data-driven analysis and visualization.
-4. 🧩 Collaborating on research related to ASR (Automatic Speech Recognition) evaluation.
-5. ✨ Pushing new commits on GitHub — stay tuned for upcoming releases!
+# 🌸 Vision
 
----
-🚀 Fashion Intelligence Engine (WIP)
-- Comprehensive AI-powered platform combining:
-  - Trend Intelligence Engine
-  - AI Stylist Module
-  - Voice Recognition Layer
-  - Trend Database
-  - Interactive UI Platform
-- Status: Prototype expected by **end of April 2026**
-- Skills: Full-stack AI development, ML, NLP, UX/UI, database integration
-  
-### 🌟 Fun Fact  
-When I’m not coding, I’m usually writing stories, diving into literature, or experimenting with makeup 💄📖 — a little creativity to balance the logic! ✨  
+My goal is to build intelligent systems that merge **AI, fashion, and human interaction**.
+
+Areas I’m currently exploring:
+
+• AI stylists and outfit recommendation systems  
+• Fashion trend prediction models  
+• Voice-powered fashion assistants  
+• Human-centered evaluation of speech technologies
 
 ---
 
-⭐ *If you like my work, please consider starring my repositories!*  
-Thanks for visiting my profile 🙌  
-📬 Feel free to reach out for collaboration, research opportunities, or ML-focused roles.
+# 🌟 Fun Fact
 
-If you want next, we can:
+When I’m not coding, I’m usually writing stories, exploring literature, or experimenting with makeup 💄📖 — creativity that often inspires my approach to building intelligent systems.
+
+---
+
+⭐ If you like my work, feel free to star my repositories!  
+📬 I’m always open to collaborations, research opportunities, and ML / AI roles.
