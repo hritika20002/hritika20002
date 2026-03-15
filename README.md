@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-<a href="mailto:sharmahritika2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:hrisharma2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/hritikasharma2002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/hritika20002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/hritika20002/hritika20002/blob/main/CV.docx"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobe&logoColor=white"/></a>
