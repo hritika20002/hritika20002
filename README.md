@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="./assets/hritika-profile.jpg" width="160" height="160" style="border-radius: 50%;" alt="Hritika Sharma Profile Photo"/>
+<img src="./hrihri.jpeg" width="170" height="170" alt="Hritika Sharma Profile Photo"/>
 
 # Hi, I’m Hritika Sharma 👋
 
-### AI & Data Systems Developer | Python • SQL • Machine Learning • NLP
+### Aspiring Data Scientist | Python | Machine Learning | NLP
 
 📍 Mississauga, Ontario, Canada
 🎓 BSc (Hons) Computer Science Graduate — Algoma University
 
 <br/>
 
-<a href="mailto:hritikasharma2002@gmail.com">
+<a href="mailto:hrisharma2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="./Hritika-Sharma-Resume.pdf">
+<a href="./Resume.docx">
   <img src="https://img.shields.io/badge/Resume-View%20CV-green?style=for-the-badge&logo=readme" />
 </a>
 
@@ -27,181 +27,185 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I’m a Computer Science graduate focused on building applied AI and data-driven systems using Python, SQL, machine learning, NLP, Flask, React, and modern deployment tools.
+I’m an AI/ML-focused Computer Science graduate with experience in Python, data pipelines, machine learning experimentation, and model evaluation.
 
-My work explores how machine learning can power:
+I enjoy building systems that turn raw data into something structured, useful, and easier to understand. My work has focused on data workflows, NLP, speech recognition evaluation, experiment tracking, and human-in-the-loop analysis.
 
-* Data pipelines and experiment tracking systems
-* NLP and speech recognition evaluation tools
-* Full-stack AI applications
-* Fashion intelligence and recommendation systems
-* Human-centered AI interfaces
+I’m especially interested in using data to support better product decisions, experimentation, and user-centered insights.
 
-I enjoy building projects that turn raw data into useful systems, whether through model evaluation, text analysis, recommendation logic, or visual analytics.
-
-Currently developing **BratzMuse AI**, a fashion intelligence platform combining machine learning, trend databases, AI styling logic, and voice-powered interaction.
+Right now, I’m looking for entry-level opportunities where I can grow in data science, machine learning, analytics, Python development, or applied AI.
 
 ---
 
-## 🚀 Featured Projects
+## Areas of Interest
 
-### 🎙 HATS — Human Assessed Transcription Side-by-Side
-
-**Speech Recognition Evaluation & Data Processing Platform**
-**Tech:** Python · Git · FFmpeg · JSON · React
-
-HATS is a research platform designed to evaluate Automatic Speech Recognition systems through structured human comparison of transcription outputs.
-
-**Key Contributions:**
-
-* Supported development of data-processing pipelines for audio and transcript evaluation
-* Debugged pipeline failures using logs, JSON outputs, and validation checks
-* Assisted with preparation and transformation of ASR datasets
-* Contributed to a human annotation interface for transcript comparison
-* Worked in a collaborative research environment using Git and documentation workflows
-
-**Focus:** Speech Recognition · NLP · Model Evaluation · Data Pipelines · Human-in-the-loop AI
+* Data Science
+* Machine Learning
+* NLP
+* Speech Recognition Evaluation
+* Data Pipelines
+* Model Evaluation
+* Experiment Tracking
+* Human-in-the-loop AI
+* Product Analytics and Experimentation
 
 ---
 
-### 💄 BratzMuse AI — Fashion Intelligence Engine
+## Featured Projects & Research
 
-**AI Fashion Trend & Styling Platform — In Development**
-**Tech:** Python · Machine Learning · NLP · React · Databases · Speech APIs
+### Human-Assessed Transcriptions Side-by-Side (HATS)
 
-BratzMuse AI is a multi-layer AI platform designed to analyze fashion data and power intelligent styling systems.
+**Algoma University Research Project**
+**May 2025 — Present**
+**Tech:** Python · FFmpeg · JSON · React · Git · ASR
 
-**Core Modules:**
+HATS is a research project focused on improving how Automatic Speech Recognition systems are evaluated.
 
-* Trend Intelligence Engine
-* AI Stylist System
-* Voice Assistant Layer
-* Fashion Trend Database
-* Interactive Web Platform
+Instead of only relying on traditional metrics, the project supports side-by-side human evaluation of transcript outputs from multiple ASR models.
 
-**Focus:** Fashion AI · Recommendation Systems · Trend Detection · Computer Vision · Personalization
+**What I worked on:**
+
+* Built data pipelines for audio processing, transcript normalization, and structured evaluation datasets
+* Designed workflows to compare outputs from multiple ASR models including Whisper, Wav2Vec2, HuBERT, and SpeechBrain
+* Supported annotation workflows for side-by-side human evaluation
+* Created structured dataset formats for consistent model comparison
+* Contributed to research focused on improving evaluation methods for speech recognition systems
+
+**Focus:** NLP · ASR · Data Pipelines · Model Evaluation · Human-in-the-loop AI
 
 ---
 
-### 🧠 AI Mood Analyzer
+### ML Experiment Tracker
+
+**Self Project**
+**Jan 2025 — Feb 2025**
+**Tech:** Python · scikit-learn · pandas
+
+ML Experiment Tracker is a simple machine learning framework for tracking experiments, model versions, and evaluation metrics.
+
+I built this project to practice reproducible machine learning workflows and better understand how different model configurations affect performance.
+
+**What I built:**
+
+* Created a framework for tracking machine learning experiments
+* Logged model versions, configurations, and evaluation metrics
+* Applied class balancing, stratified sampling, and recall-focused evaluation
+* Compared multiple model runs in a structured way
+* Improved consistency in iterative experimentation workflows
+
+**Focus:** Machine Learning · Experiment Tracking · Model Evaluation · Reproducible ML
+
+---
+
+### AI Mood Analyzer
 
 **NLP Mood Classification App**
 **Tech:** Python · Flask · React · scikit-learn · TF-IDF · Logistic Regression
 
-A full-stack NLP application that predicts mood from text and displays model confidence.
+AI Mood Analyzer is a full-stack NLP project that predicts the mood behind a sentence.
 
-**Highlights:**
+I built it because I was interested in how language can reflect emotion, even when people do not directly say how they feel.
 
-* Built a machine learning pipeline for text classification
-* Created a React frontend and Flask backend
-* Deployed frontend and backend using modern cloud platforms
-* Explored how language patterns can reflect emotional tone
+**What it does:**
 
-**Focus:** NLP · Classification · Full-stack AI · Model Evaluation
+* Takes text input from the user
+* Predicts a mood category using a machine learning model
+* Shows prediction confidence
+* Uses a React frontend and Flask backend
 
----
-
-### 👗 Trend Visualizer
-
-**Fashion-MNIST Pattern Discovery & Visualization**
-**Tech:** Python · Pandas · NumPy · Matplotlib
-
-A data science project that explores clothing category patterns using Fashion-MNIST.
-
-**Highlights:**
-
-* Processed image datasets for category-level analysis
-* Generated visual insights from pixel intensity patterns
-* Explored how ML techniques can support fashion trend analysis
-
-**Focus:** Fashion Data Science · Visual Analytics · Pattern Discovery
+**Focus:** NLP · Text Classification · Machine Learning · Full-stack AI
 
 ---
 
-### 🧪 ML Experiment Tracker
+### Resume Universe
 
-**Machine Learning Pipeline & Evaluation Framework**
-**Tech:** Python · scikit-learn · pandas
+**Interactive AI-Powered Resume Visualizer**
+**Tech:** Next.js · React · Three.js · React Three Fiber · Tailwind · Groq API
 
-A lightweight experiment tracking system for structured machine learning workflows.
+Resume Universe is a creative coding project that turns a traditional resume into an interactive visual career map.
 
-**Highlights:**
+Instead of showing skills and projects as plain text, it turns them into animated clusters that users can explore.
 
-* Built an end-to-end ML pipeline
-* Tracked experiment results and model performance
-* Focused on reproducibility and evaluation metrics
-* Used recall-focused evaluation for imbalanced classification problems
+**What I built:**
 
-**Focus:** Applied Machine Learning · Experiment Tracking · Model Evaluation
+* 3D skill and project visualization
+* Interactive resume experience
+* AI-generated career and skill insights
+* Animated UI using React Three Fiber
+* A more creative way to represent technical experience
 
----
-
-## 🧰 Technical Skills
-
-### Languages
-
-Python · SQL · Java · JavaScript
-
-### AI / Data
-
-Machine Learning · NLP · Data Analysis · Automatic Speech Recognition · Model Evaluation · Recommendation Systems
-
-### Libraries
-
-Pandas · NumPy · scikit-learn · Matplotlib
-
-### Web & Tools
-
-Flask · React · REST APIs · Git · GitHub · VS Code · FFmpeg · JSON
-
-### Systems
-
-Data Pipelines · Experiment Tracking · Databases · Human-in-the-loop AI
+**Focus:** Creative Coding · AI Interfaces · Web Development · Data Visualization
 
 ---
 
-## 🎓 Education
+## Professional Experience
+
+### Innovation Ghar Nepal
+
+**IT Intern**
+**Jun 2021 — Feb 2022**
+Kathmandu, Nepal
+
+* Maintained computer systems and supported robotics kits used in technical workshops
+* Assisted with setup and troubleshooting of hardware and software systems
+* Developed technical learning materials for introductory robotics programming sessions
+* Supported operational continuity of lab equipment and training environments
+
+---
+
+## Technical Skills
+
+**Programming & Tools:**
+Python · SQL · Git/GitHub · Jupyter · VS Code · Anaconda · FFmpeg
+
+**Data & Machine Learning:**
+Pandas · NumPy · scikit-learn · Machine Learning · NLP · ASR · Data Pipelines
+
+**Concepts:**
+Experimentation · A/B Testing · Model Evaluation · Data Cleaning · Statistical Analysis
+
+**Systems & Formats:**
+JSON · REST APIs · Relational Databases · CLI
+
+---
+
+## Education
 
 **Algoma University — Brampton, Ontario**
 BSc (Hons) Computer Science
 
-Focus areas:
+---
 
-* Artificial Intelligence
+## What I’m Looking For
+
+I’m open to entry-level roles in:
+
 * Data Science
-* Cloud Computing
-* Software Systems
+* Data Analysis
+* Machine Learning
+* NLP
+* Python Development
+* AI/ML Research Support
+* Product Analytics
+* Software Engineering
+
+I’m still learning, building, debugging, and improving with every project — and I’m excited to keep growing in data and AI.
 
 ---
 
-## 🌸 Current Focus
+## Contact
 
-I’m currently building projects around:
-
-* AI stylist and outfit recommendation systems
-* Fashion trend prediction models
-* NLP and speech recognition evaluation
-* Data pipelines and ML experimentation
-* Human-centered AI applications
-
----
-
-## 📬 Contact
-
-I’m open to entry-level opportunities in:
-
-**AI Development · Data Analysis · Machine Learning · NLP · Python Development · Software Engineering**
-
-📧 Email: [hritikasharma2002@gmail.com](mailto:hritikasharma2002@gmail.com)
+📧 Email: [hrisharma2002@gmail.com](mailto:hrisharma2002@gmail.com)
 💼 LinkedIn: [linkedin.com/in/hritikasharma2002](https://www.linkedin.com/in/hritikasharma2002/)
-📄 Resume: [View My CV](./Hritika-Sharma-Resume.pdf)
+📄 Resume: [View My CV](./Resume.docx)
 
 ---
 
 <div align="center">
 
-✨ Building AI systems with data, creativity, and human-centered design.
+Thanks for visiting my GitHub 🌸
+Still learning. Still building. Still figuring things out one project at a time.
 
 </div>
