@@ -2,210 +2,161 @@
 
 <img src="./hrihri.jpeg" width="170" height="170" alt="Hritika Sharma Profile Photo"/>
 
-# Hi, I’m Hritika Sharma 👋
+# Hi, I'm Hritika Sharma 👋
 
-### Aspiring Data Scientist | Python | Machine Learning | NLP
+### AI & Data Developer | Python • SQL • Machine Learning • NLP
 
 📍 Mississauga, Ontario, Canada
-🎓 BSc (Hons) Computer Science Graduate — Algoma University
+🎓 BSc (Hons) Computer Science — Algoma University
 
 <br/>
 
 <a href="mailto:hrisharma2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
-
 <a href="https://www.linkedin.com/in/hritikasharma2002/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<a href="./Resume.docx">
-  <img src="https://img.shields.io/badge/Resume-View%20CV-green?style=for-the-badge&logo=readme" />
+<a href="https://portfolio-pink-ten-96.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-black?style=for-the-badge&logo=vercel" />
 </a>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-I’m an AI/ML-focused Computer Science graduate with experience in Python, data pipelines, machine learning experimentation, and model evaluation.
+I'm a Computer Science graduate interested in building and evaluating data-driven and AI systems.
 
-I enjoy building systems that turn raw data into something structured, useful, and easier to understand. My work has focused on data workflows, NLP, speech recognition evaluation, experiment tracking, and human-in-the-loop analysis.
+My work combines **Python, data analysis, machine learning, NLP, and software development**, with hands-on research experience analyzing human annotation data and evaluating Automatic Speech Recognition (ASR) systems.
 
-I’m especially interested in using data to support better product decisions, experimentation, and user-centered insights.
+I enjoy taking messy datasets or technical problems and turning them into structured, reproducible workflows.
 
-Right now, I’m looking for entry-level opportunities where I can grow in data science, machine learning, analytics, Python development, or applied AI.
-
----
-
-## Areas of Interest
-
-* Data Science
-* Machine Learning
-* NLP
-* Speech Recognition Evaluation
-* Data Pipelines
-* Model Evaluation
-* Experiment Tracking
-* Human-in-the-loop AI
-* Product Analytics and Experimentation
+Currently exploring opportunities in **Data Analytics, AI/ML, Python Development, and applied AI research**.
 
 ---
 
-## Featured Projects & Research
+## 🔬 Current Research
 
-### Human-Assessed Transcriptions Side-by-Side (HATS)
+### Human-Assessed Transcriptions Side-by-Side (HATS-en)
 
-**Algoma University Research Project**
+**Research Assistant · Algoma University**
 **May 2025 — Present**
-**Tech:** Python · FFmpeg · JSON · React · Git · ASR
 
-HATS is a research project focused on improving how Automatic Speech Recognition systems are evaluated.
+Human-centered research exploring how well automatic evaluation metrics reflect **human preferences between ASR-generated transcripts**.
 
-Instead of only relying on traditional metrics, the project supports side-by-side human evaluation of transcript outputs from multiple ASR models.
+My work includes:
 
-**What I worked on:**
+* Building Python and Pandas workflows for annotation-data analysis
+* Cleaning and validating human evaluation datasets
+* Investigating inconsistencies across experimental data
+* Evaluating ASR outputs using lexical and semantic metrics
+* Comparing automatic evaluation results with human preference judgments
+* Creating reproducible analysis workflows for research experiments
 
-* Built data pipelines for audio processing, transcript normalization, and structured evaluation datasets
-* Designed workflows to compare outputs from multiple ASR models including Whisper, Wav2Vec2, HuBERT, and SpeechBrain
-* Supported annotation workflows for side-by-side human evaluation
-* Created structured dataset formats for consistent model comparison
-* Contributed to research focused on improving evaluation methods for speech recognition systems
-
-**Focus:** NLP · ASR · Data Pipelines · Model Evaluation · Human-in-the-loop AI
+**Technologies:** Python · Pandas · NLP · ASR · Data Analysis · Human-in-the-loop Evaluation
 
 ---
 
-### ML Experiment Tracker
+## 🚀 Featured Projects
 
-**Self Project**
-**Jan 2025 — Feb 2025**
-**Tech:** Python · scikit-learn · pandas
+### 🧠 AI Mood Analyzer
 
-ML Experiment Tracker is a simple machine learning framework for tracking experiments, model versions, and evaluation metrics.
+Full-stack NLP application that classifies the sentiment/mood of user-provided text in real time.
 
-I built this project to practice reproducible machine learning workflows and better understand how different model configurations affect performance.
+**Python · Flask · React · scikit-learn · TF-IDF · Logistic Regression**
 
-**What I built:**
+* Built and trained a text-classification pipeline
+* Exposed model predictions through a Flask REST API
+* Developed an interactive React frontend
+* Added prediction confidence and real-time inference
 
-* Created a framework for tracking machine learning experiments
-* Logged model versions, configurations, and evaluation metrics
-* Applied class balancing, stratified sampling, and recall-focused evaluation
-* Compared multiple model runs in a structured way
-* Improved consistency in iterative experimentation workflows
-
-**Focus:** Machine Learning · Experiment Tracking · Model Evaluation · Reproducible ML
+➡️ **[Explore AI Mood Analyzer](https://github.com/hritika20002/AI-MOOD-ANALYZER)**
 
 ---
 
-### AI Mood Analyzer
+### 📊 ML Experiment Tracker
 
-**NLP Mood Classification App**
-**Tech:** Python · Flask · React · scikit-learn · TF-IDF · Logistic Regression
+A lightweight framework for running and comparing reproducible machine-learning experiments.
 
-AI Mood Analyzer is a full-stack NLP project that predicts the mood behind a sentence.
+**Python · Pandas · NumPy · scikit-learn**
 
-I built it because I was interested in how language can reflect emotion, even when people do not directly say how they feel.
+* Tracks experiment configurations and evaluation metrics
+* Supports structured comparison between model runs
+* Implements reproducible training and evaluation workflows
+* Explores class balancing, stratified sampling, and model evaluation
 
-**What it does:**
-
-* Takes text input from the user
-* Predicts a mood category using a machine learning model
-* Shows prediction confidence
-* Uses a React frontend and Flask backend
-
-**Focus:** NLP · Text Classification · Machine Learning · Full-stack AI
+➡️ **[Explore ML Experiment Tracker](https://github.com/hritika20002/ml-experiment-tracker)**
 
 ---
 
-### Resume Universe
+### 🎙️ ASR Transcript Analyzer
 
-**Interactive AI-Powered Resume Visualizer**
-**Tech:** Next.js · React · Three.js · React Three Fiber · Tailwind · Groq API
+Python tool for evaluating Automatic Speech Recognition outputs and comparing transcription performance.
 
-Resume Universe is a creative coding project that turns a traditional resume into an interactive visual career map.
+**Python · NLP · Speech Recognition · Data Analysis**
 
-Instead of showing skills and projects as plain text, it turns them into animated clusters that users can explore.
+* Processes reference and predicted transcripts
+* Calculates transcription evaluation metrics
+* Structures results for model comparison
+* Designed around reproducible ASR evaluation workflows
 
-**What I built:**
-
-* 3D skill and project visualization
-* Interactive resume experience
-* AI-generated career and skill insights
-* Animated UI using React Three Fiber
-* A more creative way to represent technical experience
-
-**Focus:** Creative Coding · AI Interfaces · Web Development · Data Visualization
+➡️ **[Explore Transcript Analyzer](https://github.com/hritika20002/transcript_analyzer)**
 
 ---
 
-## Professional Experience
+### 🌌 Resume Universe
 
-### Innovation Ghar Nepal
+Interactive 3D portfolio experience that transforms resume information into an explorable career map.
 
-**IT Intern**
-**Jun 2021 — Feb 2022**
-Kathmandu, Nepal
+**Next.js · React · Three.js · React Three Fiber · AI APIs**
 
-* Maintained computer systems and supported robotics kits used in technical workshops
-* Assisted with setup and troubleshooting of hardware and software systems
-* Developed technical learning materials for introductory robotics programming sessions
-* Supported operational continuity of lab equipment and training environments
+* Built interactive 3D skill and project visualizations
+* Designed animated career and experience clusters
+* Integrated AI-generated career insights
+* Experimented with alternative ways of presenting professional data
 
----
-
-## Technical Skills
-
-**Programming & Tools:**
-Python · SQL · Git/GitHub · Jupyter · VS Code · Anaconda · FFmpeg
-
-**Data & Machine Learning:**
-Pandas · NumPy · scikit-learn · Machine Learning · NLP · ASR · Data Pipelines
-
-**Concepts:**
-Experimentation · A/B Testing · Model Evaluation · Data Cleaning · Statistical Analysis
-
-**Systems & Formats:**
-JSON · REST APIs · Relational Databases · CLI
+➡️ **[Explore Resume Universe](https://github.com/hritika20002/Resume-Universe)**
 
 ---
 
-## Education
+## 🛠️ Technical Toolkit
 
-**Algoma University — Brampton, Ontario**
-BSc (Hons) Computer Science
+**Languages**
+`Python` `SQL` `Java` `C++` `JavaScript`
 
----
+**Data & ML**
+`Pandas` `NumPy` `scikit-learn` `Machine Learning` `NLP` `Statistical Analysis`
 
-## What I’m Looking For
+**AI Evaluation**
+`ASR Evaluation` `Human-in-the-loop Evaluation` `Model Evaluation` `Error Analysis`
 
-I’m open to entry-level roles in:
-
-* Data Science
-* Data Analysis
-* Machine Learning
-* NLP
-* Python Development
-* AI/ML Research Support
-* Product Analytics
-* Software Engineering
-
-I’m still learning, building, debugging, and improving with every project — and I’m excited to keep growing in data and AI.
+**Development**
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `REST APIs` `JSON` `CSV`
 
 ---
 
-## Contact
+## 🎯 What I'm Working Toward
 
-📧 Email: [hrisharma2002@gmail.com](mailto:hrisharma2002@gmail.com)
-💼 LinkedIn: [linkedin.com/in/hritikasharma2002](https://www.linkedin.com/in/hritikasharma2002/)
-📄 Resume: [View My CV](./Resume.docx)
+I'm particularly interested in opportunities involving:
+
+**Data Analytics · AI/ML · NLP · Python Development · AI Evaluation · Applied Research**
+
+I want to keep building systems where **data, software, and AI meet real-world problems**.
 
 ---
 
 <div align="center">
 
-Thanks for visiting my GitHub 🌸
-Still learning. Still building. Still figuring things out one project at a time.
+### Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/hritikasharma2002/) •
+[Portfolio](https://portfolio-pink-ten-96.vercel.app/) •
+[Email](mailto:hrisharma2002@gmail.com)
+
+<br/>
+
+*Building, experimenting, and learning one project at a time.*
 
 </div>
