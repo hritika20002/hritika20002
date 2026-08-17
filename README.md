@@ -89,6 +89,8 @@ End-to-end machine learning pipeline for detecting fraudulent credit card transa
 
 ➡️ **[Explore ML Experiment Tracker](https://github.com/hritika20002/ml-experiment-tracker)**
 
+---
+
 ### 🎙️ ASR Transcript Analyzer
 
 Python tool for evaluating Automatic Speech Recognition outputs and comparing transcription performance.
