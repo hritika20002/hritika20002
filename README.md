@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="mailto:hrisharma2002@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrisharma2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/hritikasharma2002/">
