@@ -4,9 +4,9 @@
 
 # Hi, I'm Hritika Sharma 👋
 
-### AI & Data Developer | Python • SQL • Machine Learning • NLP
+### Data Analyst | Python • SQL • Pandas • Machine Learning • AI Research
 
-📍 Mississauga, Ontario, Canada
+📍 Mississauga, Ontario, Canada  
 🎓 BSc (Hons) Computer Science — Algoma University
 
 <br/>
@@ -27,13 +27,16 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science graduate interested in building and evaluating data-driven and AI systems.
 
-My work combines **Python, data analysis, machine learning, NLP, and software development**, with hands-on research experience analyzing human annotation data and evaluating Automatic Speech Recognition (ASR) systems.
+I'm a Computer Science graduate focused on **data analytics, machine learning, and applied AI**.
 
-I enjoy taking messy datasets or technical problems and turning them into structured, reproducible workflows.
+As a Research Assistant, I work with real-world speech recognition and human annotation datasets using **Python and Pandas** to clean and validate data, investigate inconsistencies, analyze experimental results, and evaluate AI-generated outputs.
 
-Currently exploring opportunities in **Data Analytics, AI/ML, Python Development, and applied AI research**.
+Alongside my research, I build projects that explore the full data workflow — from **data collection and preprocessing to analysis, modeling, evaluation, and deployment**.
+
+I'm particularly interested in using data to understand patterns, evaluate systems, and turn messy information into clear, reproducible insights.
+
+Currently exploring opportunities in **Data Analytics, Data Science, and AI/ML**, including remote and hybrid roles.
 
 ---
 
@@ -139,12 +142,11 @@ Interactive 3D portfolio experience that transforms resume information into an e
 
 ## 🎯 What I'm Working Toward
 
-I'm particularly interested in opportunities involving:
+I'm interested in opportunities where I can apply **data analysis, Python, SQL, and machine learning** to real-world problems.
 
-**Data Analytics · AI/ML · NLP · Python Development · AI Evaluation · Applied Research**
+My primary focus is **Data Analytics**, with a growing interest in **Data Science and AI/ML**.
 
-I want to keep building systems where **data, software, and AI meet real-world problems**.
-
+I'm especially interested in teams where I can combine analytical problem-solving with my experience in **AI evaluation, research, and applied machine learning**.
 ---
 
 <div align="center">
