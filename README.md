@@ -76,20 +76,18 @@ Full-stack NLP application that classifies the sentiment/mood of user-provided t
 
 ---
 
-### 📊 ML Experiment Tracker
+### 📊 Credit Card Fraud Detection — ML Experiment Tracker
 
-A lightweight framework for running and comparing reproducible machine-learning experiments.
+End-to-end machine learning pipeline for detecting fraudulent credit card transactions while comparing model experiments on highly imbalanced data.
 
-**Python · Pandas · NumPy · scikit-learn**
+**Python · Pandas · NumPy · scikit-learn · Logistic Regression · Random Forest**
 
-* Tracks experiment configurations and evaluation metrics
-* Supports structured comparison between model runs
-* Implements reproducible training and evaluation workflows
-* Explores class balancing, stratified sampling, and model evaluation
+- Built a reproducible fraud-detection training and evaluation workflow
+- Compared class-weighted Logistic Regression and Random Forest models
+- Evaluated performance using precision, recall, F1-score, and ROC-AUC
+- Explored model performance under severe class imbalance
 
 ➡️ **[Explore ML Experiment Tracker](https://github.com/hritika20002/ml-experiment-tracker)**
-
----
 
 ### 🎙️ ASR Transcript Analyzer
 
@@ -98,7 +96,7 @@ Python tool for evaluating Automatic Speech Recognition outputs and comparing tr
 **Python · NLP · Speech Recognition · Data Analysis**
 
 * Processes reference and predicted transcripts
-* Calculates transcription evaluation metrics
+* Calculates Word Error Rate (WER) for ASR-generated transcripts
 * Structures results for model comparison
 * Designed around reproducible ASR evaluation workflows
 
