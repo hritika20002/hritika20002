@@ -4,7 +4,7 @@
 
 # Hi, I'm Hritika Sharma 👋
 
-### Data Analyst | Python • SQL • Pandas • Machine Learning • AI Research
+### Data Analyst | SQL • Excel • Python • Pandas | Data Cleaning • Visualization • Research
 
 📍 Mississauga, Ontario, Canada  
 🎓 BSc (Hons) Computer Science — Algoma University
@@ -27,16 +27,13 @@
 
 ## 👩‍💻 About Me
 
+I'm a Computer Science graduate and Research Assistant focused on **data analytics**.
 
-I'm a Computer Science graduate focused on **data analytics, machine learning, and applied AI**.
+I work with real-world datasets using **Python, Pandas, SQL, and Excel** to clean and validate data, investigate inconsistencies, analyze results, and turn messy information into clear, reproducible insights.
 
-As a Research Assistant, I work with real-world speech recognition and human annotation datasets using **Python and Pandas** to clean and validate data, investigate inconsistencies, analyze experimental results, and evaluate AI-generated outputs.
+My research experience has given me hands-on exposure to **data cleaning, exploratory analysis, data validation, comparative analysis, and research reporting**.
 
-Alongside my research, I build projects that explore the full data workflow — from **data collection and preprocessing to analysis, modeling, evaluation, and deployment**.
-
-I'm particularly interested in using data to understand patterns, evaluate systems, and turn messy information into clear, reproducible insights.
-
-Currently exploring opportunities in **Data Analytics, Data Science, and AI/ML**, including remote and hybrid roles.
+I'm currently strengthening my analytics skills and building business-focused projects using **SQL, Excel, Python, and data visualization**.
 
 ---
 
@@ -44,109 +41,104 @@ Currently exploring opportunities in **Data Analytics, Data Science, and AI/ML**
 
 ### Human-Assessed Transcriptions Side-by-Side (HATS-en)
 
-**Research Assistant · Algoma University**
+**Research Assistant · Algoma University**  
 **May 2025 — Present**
 
-Human-centered research exploring how well automatic evaluation metrics reflect **human preferences between ASR-generated transcripts**.
+Research project analyzing how Automatic Speech Recognition systems perform when compared with human judgments.
 
 My work includes:
 
-* Building Python and Pandas workflows for annotation-data analysis
-* Cleaning and validating human evaluation datasets
-* Investigating inconsistencies across experimental data
-* Evaluating ASR outputs using lexical and semantic metrics
-* Comparing automatic evaluation results with human preference judgments
-* Creating reproducible analysis workflows for research experiments
+- Cleaning and validating human annotation datasets
+- Analyzing experimental results using Python and Pandas
+- Investigating missing data, inconsistencies, and unexpected results
+- Comparing evaluation metrics across speech recognition systems
+- Analyzing patterns in human preference data
+- Building reproducible data-processing and analysis workflows
+- Supporting result verification and research documentation
 
-**Technologies:** Python · Pandas · NLP · ASR · Data Analysis · Human-in-the-loop Evaluation
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI Mood Analyzer
-
-Full-stack NLP application that classifies the sentiment/mood of user-provided text in real time.
-
-**Python · Flask · React · scikit-learn · TF-IDF · Logistic Regression**
-
-* Built and trained a text-classification pipeline
-* Exposed model predictions through a Flask REST API
-* Developed an interactive React frontend
-* Added prediction confidence and real-time inference
-
-➡️ **[Explore AI Mood Analyzer](https://github.com/hritika20002/AI-MOOD-ANALYZER)**
+**Tools:** Python · Pandas · Data Analysis · Data Cleaning · Data Validation · Git/GitHub
 
 ---
 
-### 📊 Credit Card Fraud Detection — ML Experiment Tracker
+## 📊 Featured Projects
 
-End-to-end machine learning pipeline for detecting fraudulent credit card transactions while comparing model experiments on highly imbalanced data.
+### Credit Card Fraud Analysis & Model Evaluation
 
-**Python · Pandas · NumPy · scikit-learn · Logistic Regression · Random Forest**
+Analysis of highly imbalanced credit-card transaction data to investigate fraud patterns and compare predictive approaches.
 
-- Built a reproducible fraud-detection training and evaluation workflow
-- Compared class-weighted Logistic Regression and Random Forest models
-- Evaluated performance using precision, recall, F1-score, and ROC-AUC
-- Explored model performance under severe class imbalance
+**Python · Pandas · NumPy · scikit-learn**
 
-➡️ **[Explore ML Experiment Tracker](https://github.com/hritika20002/ml-experiment-tracker)**
+- Prepared and explored transaction data
+- Investigated class imbalance and fraud distribution
+- Compared Logistic Regression and Random Forest models
+- Evaluated results using precision, recall, F1-score, and ROC-AUC
+- Built a reproducible analysis and evaluation workflow
+
+➡️ **[Explore Project](https://github.com/hritika20002/ml-experiment-tracker)**
 
 ---
 
 ### 🎙️ ASR Transcript Analyzer
 
-Python tool for evaluating Automatic Speech Recognition outputs and comparing transcription performance.
+Python-based analysis tool for comparing Automatic Speech Recognition outputs against reference transcripts.
 
-**Python · NLP · Speech Recognition · Data Analysis**
+**Python · Data Analysis · Speech Recognition**
 
-* Processes reference and predicted transcripts
-* Calculates Word Error Rate (WER) for ASR-generated transcripts
-* Structures results for model comparison
-* Designed around reproducible ASR evaluation workflows
+- Processes reference and generated transcripts
+- Calculates Word Error Rate (WER)
+- Structures results for comparison and analysis
+- Supports reproducible evaluation workflows
 
-➡️ **[Explore Transcript Analyzer](https://github.com/hritika20002/transcript_analyzer)**
-
----
-
-### 🌌 Resume Universe
-
-Interactive 3D portfolio experience that transforms resume information into an explorable career map.
-
-**Next.js · React · Three.js · React Three Fiber · AI APIs**
-
-* Built interactive 3D skill and project visualizations
-* Designed animated career and experience clusters
-* Integrated AI-generated career insights
-* Experimented with alternative ways of presenting professional data
-
-➡️ **[Explore Resume Universe](https://github.com/hritika20002/Resume-Universe)**
+➡️ **[Explore Project](https://github.com/hritika20002/transcript_analyzer)**
 
 ---
 
-## 🛠️ Technical Toolkit
+### 🧠 AI Mood Analyzer
 
-**Languages**
-`Python` `SQL` `Java` `C++` `JavaScript`
+Text-analysis project that classifies sentiment from user-provided text.
 
-**Data & ML**
-`Pandas` `NumPy` `scikit-learn` `Machine Learning` `NLP` `Statistical Analysis`
+**Python · Pandas · scikit-learn · Flask**
 
-**AI Evaluation**
-`ASR Evaluation` `Human-in-the-loop Evaluation` `Model Evaluation` `Error Analysis`
+- Prepared text data for analysis and modeling
+- Built a text-classification workflow
+- Evaluated prediction outputs and confidence
+- Created an interface for exploring model results
 
-**Development**
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `REST APIs` `JSON` `CSV`
+➡️ **[Explore Project](https://github.com/hritika20002/AI-MOOD-ANALYZER)**
+
+---
+
+## 🛠️ Analytics Toolkit
+
+**Data Analysis**  
+`SQL` `Excel` `Python` `Pandas` `NumPy`
+
+**Analysis & Visualization**  
+`Data Cleaning` `Data Validation` `Exploratory Data Analysis` `Statistical Analysis` `Data Visualization`
+
+**Tools**  
+`Jupyter Notebook` `Git` `GitHub` `VS Code` `CSV` `JSON`
+
+**Additional Technical Experience**  
+`Machine Learning` `scikit-learn` `NLP` `ASR Evaluation`
 
 ---
 
 ## 🎯 What I'm Working Toward
 
-I'm interested in opportunities where I can apply **data analysis, Python, SQL, and machine learning** to real-world problems.
+My focus is becoming a strong **Data Analyst** who can take a dataset from raw information to useful business insight.
 
-My primary focus is **Data Analytics**, with a growing interest in **Data Science and AI/ML**.
+I'm currently developing deeper skills in:
 
-I'm especially interested in teams where I can combine analytical problem-solving with my experience in **AI evaluation, research, and applied machine learning**.
+- SQL
+- Excel
+- Python and Pandas
+- Data visualization
+- Dashboard development
+- Business and KPI analysis
+
+I'm interested in opportunities including **Data Analyst, Junior Data Analyst, Reporting Analyst, Business Intelligence Analyst, and Operations Analyst** roles.
+
 ---
 
 <div align="center">
@@ -159,6 +151,6 @@ I'm especially interested in teams where I can combine analytical problem-solvin
 
 <br/>
 
-*Building, experimenting, and learning one project at a time.*
+*Turning messy data into clear insights.*
 
 </div>
