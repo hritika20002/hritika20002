@@ -147,7 +147,7 @@ I'm interested in opportunities including **Data Analyst, Junior Data Analyst, R
 ### Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/hritikasharma2002/) •
-[Portfolio](https://portfolio-pink-ten-96.vercel.app/) •
+[Portfolio](https://hrihriportfolio.vercel.app/) •
 [Email](mailto:hrisharma2002@gmail.com)
 
 <br/>
