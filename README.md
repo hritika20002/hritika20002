@@ -61,6 +61,19 @@ My work includes:
 ---
 
 ## 📊 Featured Projects
+### Sales & Operations Performance Dashboard
+
+Interactive Power BI dashboard analyzing 650 synthetic Canadian sales orders across revenue, profitability, product performance, regional performance, customer segments, and delivery operations.
+
+**Power BI · Power Query · DAX · Excel · Data Visualization**
+
+- Cleaned and transformed structured sales data using Power Query
+- Built KPI measures for revenue, profit, margin, order volume, and on-time delivery
+- Analyzed monthly revenue trends and regional/product performance
+- Added interactive filters for region, product category, customer segment, and date
+- Created a business-focused dashboard for sales and operations reporting
+
+➡️ [**Explore Project**](https://github.com/hritika20002/power-bi-sales-operations-dashboard)
 
 ### Credit Card Fraud Analysis & Model Evaluation
 
@@ -93,28 +106,16 @@ Python-based analysis tool for comparing Automatic Speech Recognition outputs ag
 
 ---
 
-### 🧠 AI Mood Analyzer
-
-Text-analysis project that classifies sentiment from user-provided text.
-
-**Python · Pandas · scikit-learn · Flask**
-
-- Prepared text data for analysis and modeling
-- Built a text-classification workflow
-- Evaluated prediction outputs and confidence
-- Created an interface for exploring model results
-
-➡️ **[Explore Project](https://github.com/hritika20002/AI-MOOD-ANALYZER)**
-
----
-
 ## 🛠️ Analytics Toolkit
 
-**Data Analysis**  
-`SQL` `Excel` `Python` `Pandas` `NumPy`
+**Business Intelligence & Visualization**  
+`Power BI` `Power Query` `DAX` `Excel` `Data Visualization` `Dashboard Development`
 
-**Analysis & Visualization**  
-`Data Cleaning` `Data Validation` `Exploratory Data Analysis` `Statistical Analysis` `Data Visualization`
+**Data Analysis**  
+`SQL` `Python` `Pandas` `NumPy`
+
+**Analytics**  
+`Data Cleaning` `Data Validation` `Exploratory Data Analysis` `Statistical Analysis` `KPI Analysis`
 
 **Tools**  
 `Jupyter Notebook` `Git` `GitHub` `VS Code` `CSV` `JSON`
