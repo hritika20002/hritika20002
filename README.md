@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./jjjj.jpg" width="170" height="170" alt="Hritika Sharma Profile Photo"/>
+<img src="./jjjj.jpeg" width="170" height="170" alt="Hritika Sharma Profile Photo"/>
 
 # Hi, I'm Hritika Sharma 👋
 
