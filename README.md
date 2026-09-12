@@ -7,7 +7,7 @@
 ### Data Analyst | Power BI • SQL • Excel • Python | Data Cleaning • Dashboards • Research
 
 📍 Mississauga, Ontario, Canada  
-🎓 BSc (Hons) Computer Science — Algoma University
+🎓 BSc (Hons) Computer Science -- Algoma University
 
 <br/>
 
@@ -93,7 +93,7 @@ Interactive Power BI dashboard analyzing 650 synthetic Canadian sales orders acr
 ### Human-Assessed Transcriptions Side-by-Side (HATS-en)
 
 **Research Assistant · Algoma University**  
-**May 2025 — Present**
+**May 2025 -- Present**
 
 Research project analyzing how Automatic Speech Recognition systems perform when compared with human judgments.
 
