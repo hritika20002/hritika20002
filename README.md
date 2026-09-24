@@ -7,22 +7,24 @@
 ### Data Analyst | SQL • Power BI • Excel • Python | Data Cleaning • Dashboards • Research
 
 📍 Mississauga, Ontario, Canada
-🎓 BSc (Hons) Computer Science : Algoma University
+🎓 BSc (Hons) Computer Science — Algoma University
 
 <br/>
 
-<a href="mailto:hrisharma2002@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrisharma2002@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/hritikasharma2002/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+
+<a href="https://www.linkedin.com/in/hritikasharma2002/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
-<a href="https://hrihriportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-black?style=for-the-badge&logo=vercel" />
+
+<a href="https://hrihriportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-black?style=for-the-badge&logo=vercel" alt="Portfolio"/>
 </a>
-<a href="https://github.com/hritika20002/hritika20002/raw/refs/heads/main/Resume.pdf"
-   target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=readme" />
+
+<a href="https://github.com/hritika20002/hritika20002/blob/main/Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=readme" alt="Resume"/>
 </a>
 
 </div>
@@ -178,12 +180,9 @@ I'm interested in opportunities across **Data Analytics, Business Intelligence, 
 
 ### Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/hritikasharma2002/) •
-[Portfolio](https://hrihriportfolio.vercel.app/) •
-[Resume](./Resume.docx) •
-[Email](mailto:hrisharma2002@gmail.com)
+<a href="https://www.linkedin.com/in/hritikasharma2002/" target="_blank">LinkedIn</a> • <a href="https://hrihriportfolio.vercel.app/" target="_blank">Portfolio</a> • <a href="https://github.com/hritika20002/hritika20002/blob/main/Resume.pdf" target="_blank">Resume</a> • <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrisharma2002@gmail.com" target="_blank">Email</a>
 
-<br/>
+<br/><br/>
 
 *Turning messy data into clear insights.*
 
