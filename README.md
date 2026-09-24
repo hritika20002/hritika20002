@@ -20,7 +20,8 @@
 <a href="https://hrihriportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View%20Projects-black?style=for-the-badge&logo=vercel" />
 </a>
-<a href="YOUR-PDF-URL" target="_blank">
+<a href="https://github.com/hritika20002/hritika20002/raw/refs/heads/main/Resume.pdf"
+   target="_blank">
   <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=readme" />
 </a>
 
