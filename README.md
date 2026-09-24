@@ -4,14 +4,14 @@
 
 # Hi, I'm Hritika Sharma 👋
 
-### Data Analyst | Power BI • SQL • Excel • Python | Data Cleaning • Dashboards • Research
+### Data Analyst | SQL • Power BI • Excel • Python | Data Cleaning • Dashboards • Research
 
-📍 Mississauga, Ontario, Canada  
-🎓 BSc (Hons) Computer Science -- Algoma University
+📍 Mississauga, Ontario, Canada
+🎓 BSc (Hons) Computer Science — Algoma University
 
 <br/>
 
-<a href="mailto:hritikasharma2002@gmail.com">
+<a href="mailto:hrisharma2002@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/hritikasharma2002/">
@@ -27,13 +27,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science graduate and Research Assistant building my career in **data analytics**.
+I'm a Computer Science graduate with research experience building my career in **data analytics**.
 
-I work with **Power BI, SQL, Excel, Python, and Pandas** to clean and validate data, investigate inconsistencies, analyze patterns, build dashboards, and turn raw information into clear business insights.
+I work with **SQL, Power BI, Excel, Python, and Pandas** to clean and validate data, investigate inconsistencies, analyze patterns, build dashboards, and turn raw information into clear insights.
 
-My experience includes working with research datasets, building reproducible analysis workflows, evaluating model outputs, and creating portfolio projects using real-world public data.
+My experience includes analyzing research datasets, building reproducible analytical workflows, evaluating model outputs, and completing end-to-end analytics projects using real-world public data.
 
-I'm currently focused on strengthening my skills in **business intelligence, SQL analysis, data visualization, reporting, and end-to-end analytics workflows**.
+I'm particularly interested in **SQL analysis, business intelligence, data visualization, reporting, data quality, and end-to-end analytics workflows**.
 
 ---
 
@@ -45,28 +45,28 @@ End-to-end operational analysis of **500,000+ Toronto 311 service requests** usi
 
 **Python · PostgreSQL · SQL · Power BI · DAX · Data Cleaning**
 
-- Repaired and validated 36,189 malformed source records while preserving all 500,269 rows
-- Built a PostgreSQL staging and analytical workflow
-- Used SQL CTEs, window functions, ranking, and views for analysis
-- Analyzed service demand by month, division, request type, ward, and status
-- Built a two-page Power BI dashboard for operational reporting
-- Identified a major February seasonal demand spike driven by winter-service requests
+* Repaired and validated 36,189 malformed source records while preserving all 500,269 rows
+* Built a PostgreSQL staging and analytical workflow
+* Used SQL CTEs, window functions, ranking, and views for analysis
+* Analyzed service demand by month, division, request type, ward, and status
+* Built a two-page Power BI dashboard for operational reporting
+* Identified a major February seasonal demand spike driven by winter-service requests
 
 ➡️ [**Explore Project**](https://github.com/hritika20002/toronto_311_service_requests)
 
 ---
 
-### 🚲 Toronto Bike Share 2025 EDA
+### 🚲 Toronto Bike Share 2025 Analysis
 
-Exploratory data analysis of **7.8M+ Toronto Bike Share trips** using Python, Pandas, and Matplotlib.
+Analyzed **7.8M+ Toronto Bike Share trips across 12 months** using Python, Pandas, and Matplotlib.
 
 **Python · Pandas · Matplotlib · Jupyter Notebook · EDA**
 
-- Combined and analyzed 12 months of trip data
-- Investigated seasonality, rider behavior, trip duration, and station usage
-- Compared Member and Casual rider patterns
-- Identified weekday commuting behavior and weekend usage trends
-- Validated data-quality issues including DST-related time discrepancies
+* Combined and analyzed 12 months of trip data
+* Investigated seasonality, rider behavior, trip duration, and station usage
+* Compared Member and Casual rider patterns
+* Identified weekday commuting behavior and weekend usage trends
+* Validated data-quality issues including DST-related time discrepancies
 
 ➡️ [**Explore Project**](https://github.com/hritika20002/toronto_bikeshare)
 
@@ -78,38 +78,39 @@ Interactive Power BI dashboard analyzing 650 synthetic Canadian sales orders acr
 
 **Power BI · Power Query · DAX · Excel**
 
-- Cleaned and transformed structured sales data using Power Query
-- Built KPI measures for revenue, profit, margin, order volume, and on-time delivery
-- Analyzed monthly revenue trends and regional/product performance
-- Added interactive filters for business reporting
-- Created a decision-focused sales and operations dashboard
+* Cleaned and transformed structured sales data using Power Query
+* Built KPI measures for revenue, profit, margin, order volume, and on-time delivery
+* Analyzed monthly revenue trends and regional/product performance
+* Added interactive filters for business reporting
+* Created a decision-focused sales and operations dashboard
 
 ➡️ [**Explore Project**](https://github.com/hritika20002/power-bi-sales-operations-dashboard)
 
 ---
 
-## 🔬 Research & Technical Work
+## 🔬 Research & Publication
 
-### Human-Assessed Transcriptions Side-by-Side (HATS-en)
+### Rethinking Human-Aligned Evaluation: An Analysis of Semantic Metrics Beyond WER
 
-**Research Assistant · Algoma University**  
-**May 2025 -- Present**
+**First Author · arXiv Preprint · 2026**
 
-Research project analyzing how Automatic Speech Recognition systems perform when compared with human judgments.
+Research on human-aligned evaluation of Automatic Speech Recognition (ASR) systems using human-assessed transcription data.
 
-My work includes:
+* Cleaned and validated human annotation datasets
+* Analyzed experimental results using Python and Pandas
+* Investigated missing data, inconsistencies, and unexpected results
+* Compared evaluation metrics across speech-recognition systems
+* Analyzed patterns in human preference data
+* Built reproducible data-processing workflows
+* Supported result verification and research documentation
 
-- Cleaning and validating human annotation datasets
-- Analyzing experimental results using Python and Pandas
-- Investigating missing data, inconsistencies, and unexpected results
-- Comparing evaluation metrics across speech recognition systems
-- Analyzing patterns in human preference data
-- Building reproducible data-processing workflows
-- Supporting result verification and research documentation
+📄 [**View Preprint on arXiv**](https://arxiv.org/abs/2609.21663)
 
-**Tools:** Python · Pandas · Data Analysis · Data Cleaning · Data Validation · Git/GitHub
+**Research Assistant · Algoma University | May 2025 – September 2026**
 
 ---
+
+## 🔬 Additional Technical Projects
 
 ### 💳 Credit Card Fraud Analysis & Model Evaluation
 
@@ -117,11 +118,11 @@ Analysis of highly imbalanced credit-card transaction data to investigate fraud 
 
 **Python · Pandas · NumPy · scikit-learn**
 
-- Prepared and explored transaction data
-- Investigated class imbalance and fraud distribution
-- Compared Logistic Regression and Random Forest models
-- Evaluated precision, recall, F1-score, and ROC-AUC
-- Built a reproducible experiment and evaluation workflow
+* Prepared and explored transaction data
+* Investigated class imbalance and fraud distribution
+* Compared Logistic Regression and Random Forest models
+* Evaluated precision, recall, F1-score, and ROC-AUC
+* Built a reproducible experiment and evaluation workflow
 
 ➡️ [**Explore Project**](https://github.com/hritika20002/ml-experiment-tracker)
 
@@ -133,10 +134,10 @@ Python-based analysis tool for comparing Automatic Speech Recognition outputs ag
 
 **Python · Data Analysis · Speech Recognition**
 
-- Processes reference and generated transcripts
-- Calculates Word Error Rate (WER)
-- Structures results for comparison
-- Supports reproducible evaluation workflows
+* Processes reference and generated transcripts
+* Calculates Word Error Rate (WER)
+* Structures results for comparison
+* Supports reproducible evaluation workflows
 
 ➡️ [**Explore Project**](https://github.com/hritika20002/transcript_analyzer)
 
@@ -144,34 +145,28 @@ Python-based analysis tool for comparing Automatic Speech Recognition outputs ag
 
 ## 🛠️ Analytics Toolkit
 
-**Business Intelligence & Reporting**  
+**Business Intelligence & Reporting**
 `Power BI` `Power Query` `DAX` `Excel` `Dashboard Development` `KPI Reporting`
 
-**Data Analysis**  
-`SQL` `Python` `Pandas` `NumPy` `Exploratory Data Analysis`
+**Data Analysis**
+`SQL` `Python` `Pandas` `NumPy` `Exploratory Data Analysis` `Statistical Analysis`
 
-**Data Quality**  
+**Data Quality**
 `Data Cleaning` `Data Validation` `Data Preparation` `Error Analysis`
 
-**Databases & Tools**  
-`PostgreSQL` `pgAdmin` `Jupyter Notebook` `Git` `GitHub` `VS Code`
+**Databases & Tools**
+`PostgreSQL` `MySQL` `pgAdmin` `Jupyter Notebook` `Git` `GitHub` `VS Code`
 
-**Additional Technical Experience**  
+**Additional Technical Experience**
 `Machine Learning` `scikit-learn` `NLP` `ASR Evaluation`
 
 ---
 
 ## 🎯 Career Focus
 
-I'm building toward roles where I can work across the full analytics workflow:
-
 **Raw Data → Cleaning → SQL Analysis → Visualization → Business Insight**
 
-I'm interested in opportunities including:
-
-**Data Analyst · Junior Data Analyst · Reporting Analyst · Business Intelligence Analyst · Operations Analyst**
-
-I also enjoy exploring AI, machine learning, and other technical projects alongside my main focus in data analytics.
+I'm interested in opportunities across **Data Analytics, Business Intelligence, Reporting, and Operations Analytics**.
 
 ---
 
@@ -181,7 +176,7 @@ I also enjoy exploring AI, machine learning, and other technical projects alongs
 
 [LinkedIn](https://www.linkedin.com/in/hritikasharma2002/) •
 [Portfolio](https://hrihriportfolio.vercel.app/) •
-[Email](mailto:hritikasharma2002@gmail.com)
+[Email](mailto:hrisharma2002@gmail.com)
 
 <br/>
 
