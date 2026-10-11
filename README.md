@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/hritikasharma2002/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://hrihriportfolio.vercel.app/">
+<a href="https://rihriportfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Explore-17191D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://github.com/hritika20002/hritika20002/blob/main/Resume.pdf">
