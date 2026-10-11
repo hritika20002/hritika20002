@@ -1,96 +1,49 @@
+
 <div align="center">
 
 <img src="./jjjj.jpeg" width="170" height="170" alt="Hritika Sharma Profile Photo"/>
 
 # Hi, I'm Hritika Sharma 👋
 
-### Data Analyst | SQL • Power BI • Excel • Python | Data Cleaning • Dashboards • Research
+### AI Evaluation · ML Research · NLP · Data Analytics
 
-📍 Mississauga, Ontario, Canada
+**Computer Science Graduate | Python · SQL · Power BI · Human-Aligned AI Evaluation**
+
+📍 Mississauga, Ontario, Canada  
 🎓 BSc (Hons) Computer Science — Algoma University
 
 <br/>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrisharma2002@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrisharma2002@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<a href="https://www.linkedin.com/in/hritikasharma2002/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/hritikasharma2002/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-<a href="https://hrihriportfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-black?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+<a href="https://hrihriportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-17191D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
-<a href="https://github.com/hritika20002/hritika20002/blob/main/Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20Resume-success?style=for-the-badge&logo=readme" alt="Resume"/>
+<a href="https://github.com/hritika20002/hritika20002/blob/main/Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-View-5666A6?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## ✦ About Me
 
-I'm a Computer Science graduate with research experience building my career in **data analytics**.
+I'm a Computer Science graduate with research experience in **automatic speech recognition (ASR), human-annotated datasets, data validation, and evaluation of machine-generated outputs**.
 
-I work with **SQL, Power BI, Excel, Python, and Pandas** to clean and validate data, investigate inconsistencies, analyze patterns, build dashboards, and turn raw information into clear insights.
+My work connects three areas:
 
-My experience includes analyzing research datasets, building reproducible analytical workflows, evaluating model outputs, and completing end-to-end analytics projects using real-world public data.
+- **AI Evaluation & NLP:** Human-aligned evaluation, rubric-based response assessment, multilingual quality analysis, and error identification.
+- **ML Research:** Speech-recognition evaluation, annotation analysis, research data validation, metric comparison, and reproducible experimentation.
+- **Data Analytics:** Python, SQL, PostgreSQL, Power BI, data cleaning, exploratory analysis, KPI reporting, and dashboard development.
 
-I'm particularly interested in **SQL analysis, business intelligence, data visualization, reporting, data quality, and end-to-end analytics workflows**.
+As an Undergraduate Research Assistant at **Algoma University (May 2025 – September 2026)**, I worked with speech-recognition research datasets, human annotations, evaluation results, and research documentation.
 
----
-
-## 📊 Featured Data Analytics Projects
-
-### 🏙️ Toronto 311 Service Request Analysis
-
-End-to-end operational analysis of **500,000+ Toronto 311 service requests** using Python, PostgreSQL, SQL, and Power BI.
-
-**Python · PostgreSQL · SQL · Power BI · DAX · Data Cleaning**
-
-* Repaired and validated 36,189 malformed source records while preserving all 500,269 rows
-* Built a PostgreSQL staging and analytical workflow
-* Used SQL CTEs, window functions, ranking, and views for analysis
-* Analyzed service demand by month, division, request type, ward, and status
-* Built a two-page Power BI dashboard for operational reporting
-* Identified a major February seasonal demand spike driven by winter-service requests
-
-➡️ [**Explore Project**](https://github.com/hritika20002/toronto_311_service_requests)
-
----
-
-### 🚲 Toronto Bike Share 2025 Analysis
-
-Analyzed **7.8M+ Toronto Bike Share trips across 12 months** using Python, Pandas, and Matplotlib.
-
-**Python · Pandas · Matplotlib · Jupyter Notebook · EDA**
-
-* Combined and analyzed 12 months of trip data
-* Investigated seasonality, rider behavior, trip duration, and station usage
-* Compared Member and Casual rider patterns
-* Identified weekday commuting behavior and weekend usage trends
-* Validated data-quality issues including DST-related time discrepancies
-
-➡️ [**Explore Project**](https://github.com/hritika20002/toronto_bikeshare)
-
----
-
-### 📈 Sales & Operations Performance Dashboard
-
-Interactive Power BI dashboard analyzing 650 synthetic Canadian sales orders across revenue, profitability, product performance, regions, customer segments, and delivery operations.
-
-**Power BI · Power Query · DAX · Excel**
-
-* Cleaned and transformed structured sales data using Power Query
-* Built KPI measures for revenue, profit, margin, order volume, and on-time delivery
-* Analyzed monthly revenue trends and regional/product performance
-* Added interactive filters for business reporting
-* Created a decision-focused sales and operations dashboard
-
-➡️ [**Explore Project**](https://github.com/hritika20002/power-bi-sales-operations-dashboard)
+I enjoy investigating why a system produces a particular result, identifying inconsistencies, and translating complex data into clear, useful findings.
 
 ---
 
@@ -100,79 +53,139 @@ Interactive Power BI dashboard analyzing 650 synthetic Canadian sales orders acr
 
 **First Author · arXiv Preprint · 2026**
 
-Research on human-aligned evaluation of Automatic Speech Recognition (ASR) systems using human-assessed transcription data.
+Research examining how automatic speech-recognition evaluation metrics relate to human judgments of transcription quality.
 
-* Cleaned and validated human annotation datasets
-* Analyzed experimental results using Python and Pandas
-* Investigated missing data, inconsistencies, and unexpected results
-* Compared evaluation metrics across speech-recognition systems
-* Analyzed patterns in human preference data
-* Built reproducible data-processing workflows
-* Supported result verification and research documentation
+My research-related work has included:
 
-📄 [**View Preprint on arXiv**](https://arxiv.org/abs/2609.21663)
+- Cleaning and validating human-annotated research datasets.
+- Investigating inconsistencies, missing values, and unexpected experimental results.
+- Analyzing evaluation results using Python and Pandas.
+- Examining speech-recognition metrics and human preference patterns.
+- Supporting reproducible processing, result verification, and documentation.
 
-**Research Assistant · Algoma University | May 2025 – September 2026**
+**Focus:** Human-Aligned Evaluation · ASR · NLP · Semantic Metrics · Research Data Quality
+
+📄 **[Read the arXiv Preprint](https://arxiv.org/abs/2609.21663)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 English–Nepali AI Response Evaluation
+
+**Independent Pilot · 10 AI Responses**
+
+A small-scale, rubric-based evaluation exercise exploring how AI-generated responses can be assessed across English and Nepali.
+
+**Python · Pandas · Multilingual NLP · AI Evaluation · Data Quality**
+
+- Evaluated a pilot set of 10 responses using defined assessment criteria.
+- Examined response quality, linguistic appropriateness, and potential evaluation inconsistencies.
+- Organized evaluation results for comparison and review.
+- Documented observations and pilot limitations.
+
+**[Explore Project →](https://github.com/hritika20002/nepal-multilingual-ai-evaluation)**
 
 ---
 
-## 🔬 Additional Technical Projects
+### 🏙️ Toronto 311 Service Request Analysis
 
-### 💳 Credit Card Fraud Analysis & Model Evaluation
+**500,269 Records · Python · PostgreSQL · SQL · Power BI**
 
-Analysis of highly imbalanced credit-card transaction data to investigate fraud patterns and compare predictive approaches.
+End-to-end operational analysis of Toronto's public 311 service-request data.
 
-**Python · Pandas · NumPy · scikit-learn**
+- Repaired and validated **36,189 malformed source records**, preserving all 500,269 rows.
+- Developed a PostgreSQL staging and analytical workflow.
+- Applied SQL CTEs, window functions, ranking, and views.
+- Investigated service demand by month, division, request type, ward, and status.
+- Built a two-page Power BI dashboard for operational reporting.
+- Identified a February demand spike associated with winter-service requests.
 
-* Prepared and explored transaction data
-* Investigated class imbalance and fraud distribution
-* Compared Logistic Regression and Random Forest models
-* Evaluated precision, recall, F1-score, and ROC-AUC
-* Built a reproducible experiment and evaluation workflow
-
-➡️ [**Explore Project**](https://github.com/hritika20002/ml-experiment-tracker)
+**[Explore Project →](https://github.com/hritika20002/toronto_311_service_requests)**
 
 ---
+
+### 🚲 Toronto Bike Share 2025 Analysis
+
+**7.81M Trips · Python · Pandas · Matplotlib · EDA**
+
+Analyzed 12 months of Toronto Bike Share trip records to investigate ridership patterns and data quality.
+
+- Combined and analyzed 12 monthly datasets.
+- Investigated seasonal demand, station usage, and trip durations.
+- Compared Member and Casual rider behaviors.
+- Explored commuting patterns and weekend usage.
+- Investigated data-quality issues involving daylight-saving-time transitions.
+
+**[Explore Project →](https://github.com/hritika20002/toronto_bikeshare)**
+
+---
+
+## 🧪 Additional Technical Projects
 
 ### 🎙️ ASR Transcript Analyzer
 
-Python-based analysis tool for comparing Automatic Speech Recognition outputs against reference transcripts.
+Python-based tool for comparing generated transcripts with reference text, including Word Error Rate (WER) calculation and structured evaluation results.
 
-**Python · Data Analysis · Speech Recognition**
+**Python · ASR · Text Processing · Evaluation**
 
-* Processes reference and generated transcripts
-* Calculates Word Error Rate (WER)
-* Structures results for comparison
-* Supports reproducible evaluation workflows
+**[Explore Project →](https://github.com/hritika20002/transcript_analyzer)**
 
-➡️ [**Explore Project**](https://github.com/hritika20002/transcript_analyzer)
+### 📊 Sales & Operations Performance Dashboard
+
+Interactive Power BI dashboard using **650 synthetic Canadian sales records**, with reporting on revenue, profitability, product performance, regional trends, and delivery operations.
+
+**Power BI · Power Query · DAX · Excel**
+
+**[Explore Project →](https://github.com/hritika20002/power-bi-sales-operations-dashboard)**
+
+### 💳 Credit Card Fraud Analysis & Model Evaluation
+
+ML experimentation on highly imbalanced transaction data, comparing Logistic Regression and Random Forest using precision, recall, F1-score, and ROC-AUC.
+
+**Python · Pandas · NumPy · scikit-learn**
+
+**[Explore Project →](https://github.com/hritika20002/ml-experiment-tracker)**
+
+### 🧠 AI Mood Analyzer
+
+Full-stack NLP project for classifying text sentiment using a scikit-learn backend and a React interface.
+
+**Python · scikit-learn · Flask · React**
+
+**[Explore Project →](https://github.com/hritika20002/AI-MOOD-ANALYZER)**
 
 ---
 
-## 🛠️ Analytics Toolkit
+## 🛠️ Technical Toolkit
 
-**Business Intelligence & Reporting**
-`Power BI` `Power Query` `DAX` `Excel` `Dashboard Development` `KPI Reporting`
+**AI Evaluation & NLP**  
+`Rubric-Based Evaluation` `Human-Aligned Evaluation` `Multilingual NLP` `ASR Evaluation` `Error Analysis` `Annotation Quality`
 
-**Data Analysis**
-`SQL` `Python` `Pandas` `NumPy` `Exploratory Data Analysis` `Statistical Analysis`
+**Programming & Data Analysis**  
+`Python` `SQL` `Pandas` `NumPy` `Exploratory Data Analysis` `Data Validation`
 
-**Data Quality**
-`Data Cleaning` `Data Validation` `Data Preparation` `Error Analysis`
+**Machine Learning & Research**  
+`scikit-learn` `Model Evaluation` `Research Documentation` `Reproducible Workflows` `Statistical Analysis`
 
-**Databases & Tools**
-`PostgreSQL` `MySQL` `pgAdmin` `Jupyter Notebook` `Git` `GitHub` `VS Code`
+**Business Intelligence**  
+`Power BI` `Power Query` `DAX` `Excel` `KPI Reporting` `Dashboard Development`
 
-**Additional Technical Experience**
-`Machine Learning` `scikit-learn` `NLP` `ASR Evaluation`
+**Databases & Development Tools**  
+`PostgreSQL` `MySQL` `Jupyter Notebook` `Git` `GitHub` `VS Code`
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Areas of Interest
 
-**Raw Data → Cleaning → SQL Analysis → Visualization → Business Insight**
+I'm interested in opportunities involving:
 
-I'm interested in opportunities across **Data Analytics, Business Intelligence, Reporting, and Operations Analytics**.
+- AI Response Evaluation & Quality Assurance
+- Human-Aligned AI and NLP Evaluation
+- ML Research Support and Research Data Quality
+- Data Analytics, Business Intelligence, and Reporting
+
+My goal is to contribute to systems and decisions that are **accurate, measurable, understandable, and useful to people**.
 
 ---
 
@@ -180,10 +193,10 @@ I'm interested in opportunities across **Data Analytics, Business Intelligence, 
 
 ### Let's Connect
 
-<a href="https://www.linkedin.com/in/hritikasharma2002/" target="_blank">LinkedIn</a> • <a href="https://hrihriportfolio.vercel.app/" target="_blank">Portfolio</a> • <a href="https://github.com/hritika20002/hritika20002/blob/main/Resume.pdf" target="_blank">Resume</a> • <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hrisharma2002@gmail.com" target="_blank">Email</a>
+[LinkedIn](https://www.linkedin.com/in/hritikasharma2002/) · [Portfolio](https://hrihriportfolio.vercel.app/) · [Research](https://arxiv.org/abs/2609.21663) · [Resume](https://github.com/hritika20002/hritika20002/blob/main/Resume.pdf) · [Email](mailto:hrisharma2002@gmail.com)
 
-<br/><br/>
+<br/>
 
-*Turning messy data into clear insights.*
+*Making AI evaluation more human-aligned and data more meaningful.*
 
 </div>
